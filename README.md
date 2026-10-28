@@ -50,53 +50,43 @@ Final-year Electronics and Computer Science student at Vidyalankar Institute of 
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table> <tr> <td width="50%" valign="top">
+🛋️ House Muse
 
-### 🛋️ [House Muse](https://github.com/Alisha-0607/House-Muse)
-**AI-Based Interior Design and Home Decor System**
+AI-Based Interior Design and Home Decor System
 
 An AI system for room analysis and personalized interior design generation, combining YOLOv8, Stable Diffusion XL, and LoRA for image analysis, image-text understanding, and design generation.
 
-`Python` `Django REST` `YOLOv8` `SAM` `BLIP` `SDXL` `LoRA` `PostgreSQL` `OAuth`
+Python Django REST YOLOv8 SAM BLIP SDXL LoRA PostgreSQL OAuth
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
+🤟 IshaaraSpeak
 
-### 🤟 [IshaaraSpeak](https://github.com/Alisha-0607/ishaara_speak)
-**Audio-to-Sign Language System**
+Audio-to-Sign Language System
 
 A speech-to-text system that generates corresponding 3D sign language output, using CNNs, OpenCV, and MediaPipe for audio and visual processing.
 
-`Python` `JavaScript` `CNN` `OpenCV` `MediaPipe` `3D Animation`
+Python JavaScript CNN OpenCV MediaPipe 3D Animation
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
+🤝 Corporate Saathi
 
-### 🤝 [Corporate Saathi](https://github.com/Alisha-0607/Corporate-Saathi)
-**CSR Volunteering Platform**
+CSR Volunteering Platform
 
 A Django-based platform for managing CSR activities and user participation, with backend workflows and data management built on SQL.
 
-`Python` `Django` `SQL` `HTML` `CSS` `JavaScript`
+Python Django SQL HTML CSS JavaScript
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
+🍦 Creamy Bliss
 
-### 🍦 [Creamy Bliss](https://github.com/Alisha-0607/TODO-creamy-bliss-repo)
-**Ice Cream Parlour E-Commerce Demo**
+Ice Cream Parlour E-Commerce Demo
 
 A full-stack e-commerce demo for an ice cream parlour, with an HTML frontend and a PostgreSQL backend. Inspired by parlour sites like Naturals and Ben & Jerry's.
 
-`HTML` `PostgreSQL`
+HTML PostgreSQL
 
-</tr>
-</table>
+</td> </tr> </table>
 
 ### 🔗 Also contributed to
 
