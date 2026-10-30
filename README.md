@@ -42,7 +42,7 @@
 
 Full-stack developer and aspiring data analyst, in the final year of my Electronics and Computer Science degree at Vidyalankar Institute of Technology, Mumbai. I work with Python, SQL, machine learning, and REST APIs, and I love turning raw data into something people can actually understand.
 
-I'm also a creative at heart, drawn to telling stories through illustrations and dashboards. I'm especially interested in digital marketing, where data visualisation, analysis, and AI come together to turn numbers into insight, and insight into a compelling story. I'm eager to apply these skills to data-driven, AI-powered, and automation-focused solutions.
+Drawn to telling stories through illustrations and dashboards, I am keen to create projects where data visualisation, analysis, and AI come together to turn numbers into insight, and insight into a compelling story. I'm eager to apply these skills to data-driven, AI-powered, and automation-focused solutions.
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ A Django-based platform for managing CSR activities and user participation, with
 </td>
 <td width="50%" valign="top">
 
-### [Creamy Bliss](https://github.com/Alisha-0607/TODO-creamy-bliss-repo)
+### [Creamy Bliss](https://github.com/Alisha-0607/Creamy-bliss)
 **Ice Cream Parlour E-Commerce Demo**
 
 A full-stack e-commerce demo for an ice cream parlour, with an HTML frontend and a PostgreSQL backend. Inspired by parlour sites like Naturals and Ben & Jerry's.
