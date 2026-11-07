@@ -212,8 +212,8 @@ A full-stack e-commerce demo for an ice cream parlour, with an HTML frontend and
 <tr>
 <td valign="middle">
 
-Away from the keyboard, I'm an **NSS Student Leader** who led a team of 100+ volunteers in planning and running major cultural and community events, and I've won **Gold in Dance and Fashion Show competitions**.
-
+I find inspiration beyond technology in fashion, movement, visual aesthetics, and creative expression.
+Whether it's exploring personal style, dancing, or discovering beautiful design inspirations, I love everything that brings ideas to life.
 </td>
 <td width="32%" valign="middle">
 
